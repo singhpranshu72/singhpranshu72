@@ -36,11 +36,8 @@
 
 ## 🌐 Connect With Me
 
-<!-- TODO: Replace YOUR-LINKEDIN, YOUR-LEETCODE, YOUR-TWITTER with actual usernames -->
-
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
-[![LeetCode](https://img.shields.io/badge/Solve%20With%20Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR-LEETCODE/)
-[![Twitter](https://img.shields.io/badge/Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR-TWITTER)
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranshusingh801/)
+[![LeetCode](https://img.shields.io/badge/Solve%20With%20Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pranshu0801/)
 [![Email](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhpranshu72@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/singhpranshu72)
 
